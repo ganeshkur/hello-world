@@ -1,2 +1,6 @@
 # hello-world
-repository
+
+
+Hi!
+I am Ganesh.
+And I am awesome
